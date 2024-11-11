@@ -7,7 +7,7 @@ code for ICML 2023 [Learning Preconditioner for Conjuagate Gradient PDE Solver](
 
 Download sample data and place inside of the dataset folder:
 
-`[https://drive.google.com/file/d/104J9-h-h0fbprC9uXiST4p814o5bSA1r/view?usp=sharing](https://drive.google.com/file/d/104J9-h-h0fbprC9uXiST4p814o5bSA1r/view?usp=sharing)`
+`https://drive.google.com/file/d/104J9-h-h0fbprC9uXiST4p814o5bSA1r/view?usp=sharing`
 
 To run a simpole experiment:
 
