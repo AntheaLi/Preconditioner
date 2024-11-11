@@ -11,5 +11,3 @@ Download sample data:
 To run a simpole experiment:
 
 `bash train.sh`
-# Preconditioner
-# Preconditioner
