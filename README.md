@@ -9,6 +9,6 @@ Download sample data and place inside of the dataset folder:
 
 `https://drive.google.com/file/d/104J9-h-h0fbprC9uXiST4p814o5bSA1r/view?usp=sharing`
 
-To run a simpole experiment:
+To run a simple experiment:
 
 `bash train.sh`
